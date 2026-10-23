@@ -2,8 +2,19 @@
   "version": 2,
   "enforcementLevel": "strict",
   "libraries": {
-    "manager": [],
-    "managerResolved": [],
+    "manager": [
+      {
+        "name": "Ethernet",
+        "version": "2.0.2",
+        "scope": "shared"
+      }
+    ],
+    "managerResolved": [
+      {
+        "name": "Ethernet",
+        "version": "2.0.2"
+      }
+    ],
     "git": []
   }
 }
